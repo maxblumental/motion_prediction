@@ -1,5 +1,5 @@
 # motion_prediction
-Prediction motion of AVs with ResNet
+Predict motion of AVs with ResNet
 
 Input data: frames with an Autonomous Vehicle (AV) and surrounding traffic agents.
 Output data: agents positions in the future.
